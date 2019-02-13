@@ -1,0 +1,33 @@
+{
+  "name": "study-guide-node-project",
+  "version": "1.0.0",
+  "description": "study guide tool/practice tool",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11",
+    "node": "^11.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/race-briggs/study-guide.git"
+  },
+  "keywords": [
+    "practice",
+    "playground"
+  ],
+  "author": "Race Briggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/race-briggs/study-guide/issues"
+  },
+  "homepage": "https://github.com/race-briggs/study-guide#readme"
+}
